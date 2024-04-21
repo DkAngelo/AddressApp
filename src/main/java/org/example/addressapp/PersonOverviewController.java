@@ -233,7 +233,7 @@ public class PersonOverviewController {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("Address Application");
         alert.setHeaderText("About");
-        alert.setContentText("Author: nbicocchi@unimore.it");
+        alert.setContentText("Author: DkAngelo (https://github.com/DkAngelo)\nApp Repo: https://github.com/DkAngelo/AddressApp");
         alert.showAndWait();
     }
 
